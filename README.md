@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![Github Stats](https://github-readme-stats.vercel.app/api/wakatime?username=raulpacheco)
-
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api/wakatime?username=raulpacheco)
