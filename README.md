@@ -1,4 +1,5 @@
-### Hi there 👋
+![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/61039190/111700343-0508fd80-8818-11eb-9e5c-427038362a98.png)
+
 
 <!--
 **raulpacheco2k/raulpacheco2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
