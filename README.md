@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ![Github Stats](https://github-readme-stats.vercel.app/api/wakatime?username=raulpacheco)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=raulpacheco2k&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&show_icons=true&hide_title=true&theme=graywhite)
+ ![Github Stats](https://github-readme-stats.vercel.app/api/wakatime?username=raulpacheco&hide_title=true&theme=graywhite)
