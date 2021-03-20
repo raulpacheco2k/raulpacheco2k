@@ -2,11 +2,11 @@
 
 
 # Yo! What’s crackin’? 😎 👨‍💻
-My name is Raul, a 21 year old Software Tester from Brazil 🇧🇷. 
+My name is Raul, a 21 year old Software Tester from Brazil. 🇧🇷
 
-Halfway through my graduation I told myself that I would never work in the information technology area and today I am passionate about the software area.
+In the middle of my graduation I told myself that I would never work in the IT area, and today I am passionate about the software area.
 
-My main focus is testing automation, I like to maintain a safe and bug-free environment so that everyone involved in the process, developers, testers, managers and stakeholders, can lay their heads on the pillow at night and sleep in peace.
+My main focus is on test automation, I like to maintain a safe and bug-free environment so that everyone involved in the process, developers, testers, managers, and stakeholders, can put their head on the pillow at night and sleep peacefully.
 
 <details>
   <summary> 🤘 Other things</summary>
