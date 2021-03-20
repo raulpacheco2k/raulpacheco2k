@@ -1,4 +1,4 @@
-<img align="right" height="300px" src="https://github.com/raulpacheco2k/raulpacheco2k/blob/main/man.png?raw=true" />
+<img align="right" height="280px" src="https://github.com/raulpacheco2k/raulpacheco2k/blob/main/man.png?raw=true" />
 
 
 # Yo! What’s crackin’? 😎 👨‍💻
@@ -9,7 +9,6 @@ Halfway through my graduation I told myself that I would never work in the infor
 My main focus is testing automation, I like to maintain a safe and bug-free environment so that everyone involved in the process, developers, testers, managers and stakeholders, can lay their heads on the pillow at night and sleep in peace.
 
 💬 You can ask me a few questions [here](https://github.com/raulpacheco2k/raulpacheco2k/issues)
-
 
 <p align="center">
 <a href="https://www.linkedin.com/in/raulpacheco2k"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
