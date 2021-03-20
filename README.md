@@ -1,4 +1,4 @@
-<img align="right" height="280px" src="https://github.com/raulpacheco2k/raulpacheco2k/blob/main/man.png?raw=true" />
+<img align="right" height="300px" src="https://github.com/raulpacheco2k/raulpacheco2k/blob/main/man.png?raw=true" />
 
 
 # Yo! What’s crackin’? 😎 👨‍💻
