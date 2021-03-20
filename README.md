@@ -2,13 +2,17 @@
 
 
 # Yo! What’s crackin’? 😎 👨‍💻
-My name is Raul, a 21 year old Brazilian software tester.
+My name is Raul, a 21 year old Software Tester from Brazil 🇧🇷. 
 
 Halfway through my graduation I told myself that I would never work in the information technology area and today I am passionate about the software area.
 
 My main focus is testing automation, I like to maintain a safe and bug-free environment so that everyone involved in the process, developers, testers, managers and stakeholders, can lay their heads on the pillow at night and sleep in peace.
 
-💬 You can ask me a few questions [here](https://github.com/raulpacheco2k/raulpacheco2k/issues)
+<details>
+  <summary> 🤘 Other things</summary>
+  <p> 💬 You can ask me a few questions <a href="https://github.com/raulpacheco2k/raulpacheco2k/issues">here</a>.</p>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=github/raulpacheco2k">
+</details>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/raulpacheco2k"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -20,8 +24,9 @@ My main focus is testing automation, I like to maintain a safe and bug-free envi
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=raulpacheco2k&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&hide_title=true&theme=dark)
 ![Github Stats](https://github-readme-stats.vercel.app/api/wakatime?username=raulpacheco&hide_title=false&theme=dark&hide_border=true&line_height=30&hide_title=true&hide_progress=true)
 
-
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 </p>
+
+
