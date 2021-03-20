@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulpacheco2k&repo=Learning-Python&theme=dark&hide_border=true&show_icons=false)
+
 -->
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=raulpacheco2k&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&hide_title=true&theme=dark)
 ![Github Stats](https://github-readme-stats.vercel.app/api/wakatime?username=raulpacheco&hide_title=false&theme=dark&hide_border=true&line_height=30&hide_title=true&hide_progress=true)
-
-### What am I studying?
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulpacheco2k&repo=Learning-Python&theme=dark&hide_border=true&show_icons=false)
