@@ -1,7 +1,7 @@
+<!--
+
 ![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/61039190/111700343-0508fd80-8818-11eb-9e5c-427038362a98.png)
 
-
-<!--
 **raulpacheco2k/raulpacheco2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,5 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=raulpacheco2k&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&hide_title=false&theme=dark&)
-![Github Stats](https://github-readme-stats.vercel.app/api/wakatime?username=raulpacheco&hide_title=false&theme=dark&hide_border=true&line_height=30)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=raulpacheco2k&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&hide_title=true&theme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api/wakatime?username=raulpacheco&hide_title=false&theme=dark&hide_border=true&line_height=30&hide_title=true&hide_progress=true)
+
+### What am I studying?
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulpacheco2k&repo=Learning-Python&theme=dark&hide_border=true&show_icons=false)
