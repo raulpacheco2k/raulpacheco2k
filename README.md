@@ -1,4 +1,4 @@
-<img align="right" height="280px" src="https://github.com/raulpacheco2k/raulpacheco2k/blob/main/man.png?raw=true" />
+<!-- <img align="right" height="280px" src="https://github.com/raulpacheco2k/raulpacheco2k/blob/main/man.png?raw=true" />
 
 
 # Yo! What’s crackin’? 😎 👨‍💻
@@ -13,6 +13,8 @@ My main focus is on test automation, I like to maintain a safe and bug-free envi
   <p> 💬 You can ask me a few questions <a href="https://github.com/raulpacheco2k/raulpacheco2k/issues">here</a>.</p>
   <img src="https://visitor-badge.glitch.me/badge?page_id=github/raulpacheco2k">
 </details>
+
+-->
 
 <p align="center">
 <a href="https://www.linkedin.com/in/raulpacheco2k"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
