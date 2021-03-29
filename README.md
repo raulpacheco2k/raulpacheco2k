@@ -24,7 +24,7 @@ My main focus is on test automation, I like to maintain a safe and bug-free envi
 </p>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=raulpacheco2k&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&hide_title=true&theme=dark)
-![Github Stats](https://github-readme-stats.vercel.app/api/wakatime?username=raulpacheco&hide_title=false&theme=dark&hide_border=true&line_height=22&hide_title=true&hide_progress=true)
+![Github Stats](https://github-readme-stats.vercel.app/api/wakatime?username=raulpacheco2k&hide_title=false&theme=dark&hide_border=true&line_height=22&hide_title=true&hide_progress=true)
 
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
