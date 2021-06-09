@@ -20,7 +20,7 @@ I like to maintain a safe and bug-free environment so that everyone involved in 
 </p>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=raulpacheco2k&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&hide_title=true&theme=dark)
-![Github Stats](https://github-readme-stats.vercel.app/api/wakatime?username=raulpacheco2k&theme=dark&hide_border=true&hide_title=true&hide_progress=true)
+![Github Stats](https://github-readme-stats.vercel.app/api/wakatime?username=raulpacheco2k&theme=dark&hide_border=true&hide_title=true&langs_count=5)]
 
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
