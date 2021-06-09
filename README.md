@@ -21,8 +21,10 @@ I like to maintain a safe and bug-free environment so that everyone involved in 
 <a href="mailto:eu@raulpacheco.com.br"><img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=raulpacheco2k&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&hide_title=true&theme=dark)
-![Github Stats](https://github-readme-stats.vercel.app/api/wakatime?username=raulpacheco2k&theme=dark&hide_border=true&hide_title=true&langs_count=5)
+<a href="https://github.com/raulpacheco2k">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raulpacheco2k&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&hide_title=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=raulpacheco2k&theme=dark&hide_border=true&hide_title=true&langs_count=5" />
+</a>
 
 <!--
 <p align="center">
