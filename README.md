@@ -6,11 +6,13 @@ My name is Raul Pacheco, or tester muscle-bound, I'm 21 years old, currently wor
 In the middle of my graduation I told myself that I would never work in the IT area, and today I am passionate about the software area.
 I like to maintain a safe and bug-free environment so that everyone involved in the process, developers, testers, managers, and stakeholders, can put their head on the pillow at night and sleep peacefully.
 
+<!--
 <details>
   <summary> 🤘 Other things</summary>
   <p> 💬 You can ask me a few questions <a href="https://github.com/raulpacheco2k/raulpacheco2k/issues">here</a>.</p>
   <img src="https://visitor-badge.glitch.me/badge?page_id=github/raulpacheco2k">
 </details>
+-->
 
 <p align="center">
 <a href="https://www.linkedin.com/in/raulpacheco2k"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -22,7 +24,9 @@ I like to maintain a safe and bug-free environment so that everyone involved in 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=raulpacheco2k&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&hide_title=true&theme=dark)
 ![Github Stats](https://github-readme-stats.vercel.app/api/wakatime?username=raulpacheco2k&theme=dark&hide_border=true&hide_title=true&langs_count=5)
 
+<!--
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 </p>
+-->
