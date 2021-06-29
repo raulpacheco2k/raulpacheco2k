@@ -1,4 +1,6 @@
+<!--
 <img align="right" height="280px" src="https://github.com/raulpacheco2k/raulpacheco2k/blob/main/man.png?raw=true" />
+-->
 
 # Eaii, tudo certo? 😎 👨‍💻
 Meu nome é Raul Pacheco, ou tester bombado (para os intimos), tenho 21 anos, atualmente trabalho como Testador em Santa Catarina, Brasil. 🇧🇷
