@@ -1,11 +1,9 @@
 <img align="right" height="280px" src="https://github.com/raulpacheco2k/raulpacheco2k/blob/main/man.png?raw=true" />
 
 # Eaii, tudo certo? 😎 👨‍💻
-Meu nome é Raul Pacheco, ou tester bombado (para os intimos), tenho 21 anos, atualmente trabalho como Testador de software em Santa Catarina, Brasil. 🇧🇷
+Meu nome é Raul Pacheco, ou tester bombado (para os intimos), tenho 21 anos, atualmente trabalho como Testador em Santa Catarina, Brasil. 🇧🇷
 
 No último ano no curso técnico disse a mim mesmo que nunca trabalharia na área de TI, e hoje sou um apaixonado pela área de software. Gosto de manter um ambiente seguro e livre de bugs para que todos os envolvidos no processo, possam colocar a cabeça no travesseiro à noite e dormir em paz.
-
-
 
 <!--
 <details>
