@@ -1,10 +1,11 @@
 <img align="right" height="280px" src="https://github.com/raulpacheco2k/raulpacheco2k/blob/main/man.png?raw=true" />
 
-# Yo! What’s crackin’? 😎 👨‍💻
-My name is Raul Pacheco, or tester muscle-bound, I'm 21 years old, currently working as a Software Tester in Santa Catarina, Brazil. 🇧🇷
+# Eaii, tudo certo? 😎 👨‍💻
+Meu nome é Raul Pacheco, ou tester bombado (para os intimos), tenho 21 anos, atualmente trabalho como Testador de software em Santa Catarina, Brasil. 🇧🇷
 
-In the middle of my graduation I told myself that I would never work in the IT area, and today I am passionate about the software area.
-I like to maintain a safe and bug-free environment so that everyone involved in the process, developers, testers, managers, and stakeholders, can put their head on the pillow at night and sleep peacefully.
+No último ano no curso técnico disse a mim mesmo que nunca trabalharia na área de TI, e hoje sou um apaixonado pela área de software. Gosto de manter um ambiente seguro e livre de bugs para que todos os envolvidos no processo, possam colocar a cabeça no travesseiro à noite e dormir em paz.
+
+
 
 <!--
 <details>
