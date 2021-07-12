@@ -35,9 +35,10 @@ No último ano no curso técnico disse a mim mesmo que nunca trabalharia na áre
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=raulpacheco2k&theme=dark&hide_border=true&hide_title=true&langs_count=5"/>
 </a>
 
-<br><br>
 
+<!--
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 </p>
+-->
