@@ -3,7 +3,7 @@
 -->
 
 # Eaii, tudo certo? 😎 👨‍💻
-Meu nome é Raul Pacheco, ou tester bombado (para os intimos), tenho 21 anos, atualmente trabalho como Testador em Santa Catarina, Brasil. 🇧🇷
+Meu nome é Raul Pacheco, ou tester bombado (para os intimos), tenho 21 anos, atualmente trabalho como Testador de Software Júnior em Santa Catarina, Brasil. 🇧🇷
 
 No último ano no curso técnico disse a mim mesmo que nunca trabalharia na área de TI, comecei a realizar o estagio para pegar o diploma. Hoje, além de continuar trabalhando área, sou um apaixonado pela área de software, curso a graduação de Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina, já considerando a pós-graduação e nas horas vagas estudo programação em seus aspectos gerais. Gosto de manter um ambiente seguro e livre de bugs para que todos os envolvidos no processo, possam colocar a cabeça no travesseiro à noite e dormir em paz.
 
