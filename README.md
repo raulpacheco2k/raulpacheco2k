@@ -12,7 +12,7 @@ Gosto de manter um ambiente seguro e livre de bugs para que todos os envolvidos 
 
 <details>
   <summary>Outras coisas</summary>
-  <p> 💬 Você pode me fazer algumas perguntas aqui <a href="https://github.com/raulpacheco2k/raulpacheco2k/issues">here</a>.</p>
+  <p> 💬 Você pode me fazer algumas perguntas <a href="https://github.com/raulpacheco2k/raulpacheco2k/issues">aqui</a>.</p>
   <img src="https://visitor-badge.glitch.me/badge?page_id=github/raulpacheco2k">
 </details>
 
