@@ -9,6 +9,7 @@ Estou a pouco mais de dois anos na área de qualidade de software e o mais engra
 
 Gosto de manter um ambiente seguro e livre de bugs para que todos os envolvidos no processo, possam colocar a cabeça no travesseiro à noite e dormir em paz.
 
+Atualmente estou trabalhando em cima do meu [sistema de gestão financeira, chamado Harpia](https://github.com/raulpacheco2k/Harpia), cujo está sendo desenvolvido como trabalho de conclusão de curso (TCC). No meu tempo livre estudo Java.
 
 <details>
   <summary>Outras coisas</summary>
