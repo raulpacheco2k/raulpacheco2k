@@ -7,16 +7,6 @@ Meu nome é Raul Pacheco, ou tester bombado (para os intimos), tenho 22 anos, at
 
 Estou a pouco mais de dois anos na área de qualidade de software e o mais engraçado de tudo isso é que último ano no curso técnico disse a mim mesmo que nunca trabalharia na área de TI, comecei realizando um estágio para conseguir me certificar no curso técnico, de lá para cá venho crescendo por consequência de estudos contínuos, além de continuar trabalhando na área, curso a graduação de Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina e já tenho engatilhado a pós-graduação que cursarei após a conclusão do curso: Engenharia da Qualidade de Software. 
 
-Gosto de manter um ambiente seguro e livre de bugs para que todos os envolvidos no processo, possam colocar a cabeça no travesseiro à noite e dormir em paz.
-
-Atualmente estou trabalhando em cima do meu [sistema de gestão financeira, chamado Harpia](https://github.com/raulpacheco2k/Harpia), cujo está sendo desenvolvido como trabalho de conclusão de curso (TCC). No meu tempo livre estudo Java.
-
-<details>
-  <summary>Outras coisas</summary>
-  <p> 💬 Você pode me fazer algumas perguntas <a href="https://github.com/raulpacheco2k/raulpacheco2k/issues">aqui</a>.</p>
-</details>
-
-
 <p align="center">
   <a href="https://www.linkedin.com/in/raulpacheco2k">
     <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -39,6 +29,14 @@ Atualmente estou trabalhando em cima do meu [sistema de gestão financeira, cham
 
 
 <!--
+
+<details>
+  <summary>Outras coisas</summary>
+  <p> 💬 Você pode me fazer algumas perguntas <a href="https://github.com/raulpacheco2k/raulpacheco2k/issues">aqui</a>.</p>
+</details>
+
+Gosto de manter um ambiente seguro e livre de bugs para que todos os envolvidos no processo, possam colocar a cabeça no travesseiro à noite e dormir em paz.
+
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
