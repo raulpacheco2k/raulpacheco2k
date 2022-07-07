@@ -20,5 +20,3 @@
     </td>
   </tr>
 </table>
-
-![ ](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raulpacheco2k&theme=monokai)
