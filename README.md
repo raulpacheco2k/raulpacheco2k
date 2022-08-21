@@ -20,3 +20,8 @@
     </td>
   </tr>
 </table>
+
+<a href="https://github.com/raulpacheco2k">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raulpacheco2k&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&hide_title=true&theme=dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=raulpacheco2k&theme=dark&hide_border=true&hide_title=true&langs_count=5"/>
+</a>
