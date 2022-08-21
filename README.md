@@ -14,10 +14,7 @@ Estou a atrês anos na área de qualidade de software, comecei realizando um est
   <a href="https://www.instagram.com/raulpacheco2k.qa">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5548998210638">
-    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
-  <a href="mailto:eu@raulpacheco.com.br">
+  <a href="mailto:contato@raulpacheco.com.br">
     <img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
