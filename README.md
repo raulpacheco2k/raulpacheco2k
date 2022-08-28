@@ -3,9 +3,9 @@
 -->
 
 # Eaii, tudo certo? 👨‍💻
-Meu nome é Raul Pacheco, ou tester bombado (para os íntimos), tenho 22 anos, atualmente trabalho como Testador de Software Júnior remotamente de Santa Catarina para uma empresa do Rio Grande do Sul. 🇧🇷
+Meu nome é Raul Pacheco, ou tester bombado (para os íntimos), tenho 22 anos, atualmente trabalho como Testador de Software Pleno remotamente de Santa Catarina para [TCS](https://www.tcs.com/). 🇧🇷🇮🇳
 
-Estou a atrês anos na área de qualidade de software, comecei realizando um estágio para conseguir me certificar no curso técnico e gostei de trabalhar nesta área, de lá para cá venho crescendo por consequência dos estudos contínuos, atualmente estou no último semestre da graduação de Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina e após a conclusão cursarei a pós-graduação de Engenharia da Qualidade de Software.
+Estou a atrês anos na área de qualidade de software, comecei realizando um estágio para conseguir me certificar no curso técnico e gostei de trabalhar nesta área. Venho crescendo por consequência dos estudos contínuos, atualmente estou no último semestre da graduação de Análise e Desenvolvimento de Sistemas pelo IFSC e após a conclusão cursarei a pós-graduação de Engenharia da Qualidade de Software.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/raulpacheco2k">
