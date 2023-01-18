@@ -8,7 +8,7 @@ Meu nome é Raul Pacheco, ou tester bombado (para os íntimos), tenho 22 anos, a
 Estou a atrês anos na área de qualidade de software, comecei realizando um estágio para conseguir me certificar no curso técnico, após a certificação no curso ténico iniciei a graduação de Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Santa Catarina e continuo trabalhando na área de Qualidade de Software desde 2019.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/raulpacheco2k">
+  <a href="[https://www.linkedin.com/in/raulpacheco2k](https://img.shields.io/badge/-linktr.ee-brightgreen?style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/raulpacheco2k&color=254f1a)">
     <img alt="Linktr.ee" src="https://img.shields.io/badge/-linktr.ee-brightgreen?style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/raulpacheco2k&color=254f1a">
   </a>
 </p>
