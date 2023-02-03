@@ -3,7 +3,7 @@
 -->
 
 # Eaii, tudo certo? 👨‍💻
-Meu nome é Raul Pacheco, ou tester bombado (para os íntimos), tenho 22 anos, atualmente trabalho como Testador de Software Pleno remotamente de Santa Catarina para [TCS](https://www.tcs.com/).
+Meu nome é Raul Pacheco, atualmente trabalho como Analista de Teste de Software Pleno, remotamente de Santa Catarina, para [TCS](https://www.tcs.com/).
 
 Estou a atrês anos na área de qualidade de software, comecei realizando um estágio para conseguir me certificar no curso técnico, após a certificação no curso ténico iniciei a graduação de Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Santa Catarina e continuo trabalhando na área de Qualidade de Software desde 2019.
 
