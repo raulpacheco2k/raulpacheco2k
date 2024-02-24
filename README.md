@@ -16,6 +16,10 @@ Participei ativamente de todas as fases do ciclo de teste, desde a concepção a
   </a>
 </p>
 
+<a align="center" href="https://github.com/raulpacheco2k">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=raulpacheco2k&theme=dark&hide_border=true&hide_title=true&langs_count=6"/>
+</a>
+
 <!--
 
   <a href="https://www.instagram.com/raulpacheco2k.qa">
