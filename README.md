@@ -12,7 +12,7 @@ Participei ativamente de todas as fases do ciclo de teste, desde a concepção a
 
 > Minha maior satisfação é manter um ambiente seguro e livre de bugs para que todos os envolvidos no processo, possam colocar a cabeça no travesseiro e dormir em paz.
 
-<sub>
+
   Entre em contato atráves dos meios abaixo
   <br> 
   <a href="https://www.linkedin.com/in/raulpacheco2k">linkedin</a> |
@@ -20,4 +20,4 @@ Participei ativamente de todas as fases do ciclo de teste, desde a concepção a
   <a href="mailto:eu@raulpacheco.com.br">email</a> |
   <a href="https://docs.google.com/document/d/1LeEc2A_cs7F4nnCN7BBrwgJ6C6_VJ2m8/edit">curriculo</a> |
   <a href="https://linktr.ee/raulpacheco2k">linktr.ee</a>
-</sub>
+
