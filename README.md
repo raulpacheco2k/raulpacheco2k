@@ -8,7 +8,7 @@ Comecei minha trajetória profissional em 2019 como QA. Sou formado em Análise 
 
 Durante esses anos na aréa da qualidade de software, adquiri vasta experiência trabalhando em diferentes contextos e produtos, incluindo software comercial, outsourcing e consultoria, em uma ampla variedade de setores, como saúde, sistemas de ponto de venda, ERP, e-commerce e sistema bancário. Onde pude desenvolver habilidades na elaboração de planos de teste e na execução de testes em diversos ambientes, incluindo API, web, mobile e desktop. 
 
-Participei ativamente de todas as fases do ciclo de teste, desde a concepção até a entrega final. Enfrentando projetos desafiadores, aprimorei minha capacidade de solucionar problemas, colaborar em equipe e adaptar-me a diferentes contextos e tecnologias, contribuindo significativamente para o sucesso dos projetos em que estive envolvido.
+Participei ativamente de todas as fases do ciclo de teste, desde a concepção até a entrega final. Enfrentando projetos desafiadores, aprimorei minha capacidade de solucionar problemas, colaborar em equipe, comunicação e adaptar-me a diferentes contextos e tecnologias, contribuindo significativamente para o sucesso dos projetos em que estive envolvido.
 
 <p align="center">
   <a href="https://linktr.ee/raulpacheco2k">
