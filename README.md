@@ -12,6 +12,7 @@ Participei ativamente de todas as fases do ciclo de teste, desde a concepção a
 
 > Minha maior satisfação é manter um ambiente seguro e livre de bugs para que todos os envolvidos no processo, possam colocar a cabeça no travesseiro e dormir em paz.
 
+---
 
   Entre em contato atráves dos meios abaixo
   <br> 
