@@ -1,5 +1,5 @@
 
-<img align="right" height="280px" src="https://raw.githubusercontent.com/raulpacheco2k/raulpacheco2k/main/8bit%20profile%20photo.png?raw=true" />
+<img align="right" height="280px" src="https://cdn.sstatic.net/Sites/sqa/Img/apple-touch-icon@2.png?v=0cf624b917f2" />
 
 # Olá, tudo bem? 👨‍💻
 Meu nome é **_Raul Pacheco_**, e sou **_Analista de Teste de Software Pleno_**, atualmente **_trabalho remotamente de Santa Catarina para TCS_**. 
