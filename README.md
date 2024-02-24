@@ -13,7 +13,7 @@ Participei ativamente de todas as fases do ciclo de teste, desde a concepção a
 > Minha maior satisfação é manter um ambiente seguro e livre de bugs para que todos os envolvidos no processo, possam colocar a cabeça no travesseiro e dormir em paz.
 
 <p align="center">
-  <a href="https://linktr.ee/raulpacheco2k">
+  <a href="https://linktr.ee/raulpacheco2k" target="_blank">
     <img alt="Linktr.ee" src="https://img.shields.io/badge/-linktr.ee-brightgreen?style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/raulpacheco2k&color=254f1a">
   </a>
 </p>
