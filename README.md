@@ -1,11 +1,14 @@
-<!--
-<img align="right" height="280px" src="https://github.com/raulpacheco2k/raulpacheco2k/blob/main/man.png?raw=true" />
--->
 
-# Eaii, tudo certo? 👨‍💻
-Meu nome é Raul Pacheco, atualmente trabalho como Analista de Teste de Software Pleno, remotamente de Santa Catarina, para [TCS](https://www.tcs.com/).
+<img align="right" height="280px" src="https://raw.githubusercontent.com/raulpacheco2k/raulpacheco2k/main/8bit%20profile%20photo.png?raw=true" />
 
-Estou a três anos na área de qualidade de software, comecei realizando um estágio para conseguir me certificar no curso técnico, após a certificação no curso ténico iniciei a graduação pela qual sou formado hoje, Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Santa Catarina, e continuo trabalhando na área de Qualidade de Software desde 2019.
+# Olá, tudo bem? 👨‍💻
+Meu nome é **_Raul Pacheco_**, e sou **_Analista de Teste de Software Pleno_**, atualmente **_trabalho remotamente de Santa Catarina para TCS_**. 
+
+Comecei minha trajetória profissional em 2019 como QA. Sou formado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Santa Catarina desde 2022.
+
+Durante esses anos na aréa da qualidade de software, adquiri vasta experiência trabalhando em diferentes contextos e produtos, incluindo software comercial, outsourcing e consultoria, em uma ampla variedade de setores, como saúde, sistemas de ponto de venda, ERP, e-commerce e sistema bancário. Onde pude desenvolver habilidades na elaboração de planos de teste e na execução de testes em diversos ambientes, incluindo API, web, mobile e desktop. 
+
+Participei ativamente de todas as fases do ciclo de teste, desde a concepção até a entrega final. Enfrentando projetos desafiadores, aprimorei minha capacidade de solucionar problemas, colaborar em equipe e adaptar-me a diferentes contextos e tecnologias, contribuindo significativamente para o sucesso dos projetos em que estive envolvido.
 
 <p align="center">
   <a href="https://linktr.ee/raulpacheco2k">
