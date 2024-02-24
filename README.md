@@ -1,5 +1,5 @@
 
-<img align="right" height="280px" src="https://progneo.com/wp-content/uploads/2023/11/QA-1.png" />
+<img align="right" height="280px" src="https://raw.githubusercontent.com/raulpacheco2k/raulpacheco2k/main/qa-engineers.png" />
 
 # Olá, tudo bem? 👨‍💻
 Meu nome é **_Raul Pacheco_**, e sou **_Analista de Teste de Software Pleno_**, atualmente **_trabalho remotamente de Santa Catarina para TCS_**. 
