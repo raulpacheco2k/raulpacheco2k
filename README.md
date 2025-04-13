@@ -2,7 +2,7 @@
 
 <img align="right" height="280px" src="https://raw.githubusercontent.com/raulpacheco2k/raulpacheco2k/main/qa-engineers.png" />
 
-Meu nome é Raul Pacheco, sou Analista de Teste de Software Pleno e trabalho remotamente de Santa Catarina para a TCS. 👨‍💻🇧🇷
+Sou Analista de Teste de Software Pleno e trabalho remotamente de Santa Catarina para a TCS. 👨‍💻🇧🇷
 
 Iniciei minha carreira em 2019 como QA e me formei em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Santa Catarina em 2022.
 
