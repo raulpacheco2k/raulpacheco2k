@@ -11,3 +11,5 @@ Participei de todas as fases do ciclo de teste, desde a concepção até a entre
     <img alt="Linktr.ee" src="https://img.shields.io/badge/-linktr.ee-brightgreen?style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/raulpacheco2k&color=254f1a">
   </a>
 </p>
+
+`Java` `Maven` `Gradle` `JUnit` `Selenium` `Page Objects` `Gherkin` `Cucumber` `Rest Assured` `PHP` `Composer` `PHPUnit` `Laravel` `Python` `Scrapy` `MySQL` `SQLite` `Linux` `Docker` `AWS` `SQL`  `Git` `Git Flow` `GitHub` `GitHub Actions` `TDD` `BDD` `Trello` `Jira` `Scrum` `Kanban`
