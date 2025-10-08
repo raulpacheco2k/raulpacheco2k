@@ -1,6 +1,4 @@
-<img align="right" height="200px" src="https://raw.githubusercontent.com/raulpacheco2k/raulpacheco2k/main/qa-engineers.png" />
-
-
+<img align="right" height="160px" src="https://raw.githubusercontent.com/raulpacheco2k/raulpacheco2k/main/qa-engineers.png" />
 
 <p align="center">
   <a href="https://linktr.ee/raulpacheco2k" target="_blank" rel="noopener noreferrer">
