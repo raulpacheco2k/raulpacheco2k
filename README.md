@@ -7,3 +7,8 @@
 </p>
 
 `Java` `Gradle` `JUnit` `Rest Assured` `Selenium` `Page Objects` `Gherkin` `Cucumber` `PHP` `Composer` `PHPUnit` `Laravel` `Python` `Scrapy` `SQL` `MySQL` `SQLite` `Linux` `Docker` `AWS`
+
+<hr>
+
+- [amortizacao.com.br](https://amortizacao.com.br/)
+- [carbudget.com.br](https://main.d154mcyp4qoxlz.amplifyapp.com/)
